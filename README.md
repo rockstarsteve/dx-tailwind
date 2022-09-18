@@ -1,2 +1,2 @@
 # dx-tailwind
-测试tailwind的结合
+测试tailwind的案例
